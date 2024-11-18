@@ -16,8 +16,8 @@ To write a YACC program to recognize the grammar anb where n>=10.
    
 # PROGRAM:
 ```
-NAME: SRI Gokul R
-REG NO:2122222230039
+NAME: Tarun S
+REG NO:212223040226
 ```
 ## PROGRAM 1:
     %{
